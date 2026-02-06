@@ -189,3 +189,50 @@ Java         10 mins         ░░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer&text=&fontSize=0" width="100%"/>
 </div>
+
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=120&section=header" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Vedanti+Baviskar;Frontend+Developer;Building+Beautiful+Web+Experiences;From+India+🇮🇳" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="520"/>
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+```yaml
+name: Vedanti Baviskar
+role: Frontend Developer
+location: India 🇮🇳
+
+interests:
+  - Web Development
+  - UI / UX Design
+  - Game Development
+  - IoT
+
+tech_stack:
+  - JavaScript / React
+  - Java & Spring
+  - C Programming
+  - AWS Cloud
+  - Unity
+
+currently_learning:
+  - Advanced React
+  - Cloud Architecture
+  - 3D Web Graphics
+
+coffee_consumed: infinite ☕
+
